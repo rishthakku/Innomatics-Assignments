@@ -1,0 +1,52 @@
+RESUME - STRONG CANDIDATE
+
+NAME: Priya Sharma
+EMAIL: priya.sharma@email.com
+PHONE: +91-9876543210
+LINKEDIN: linkedin.com/in/priyasharma-ds
+
+SUMMARY:
+Experienced Data Scientist with 4 years of expertise in machine learning,
+deep learning, and AI solutions. Strong background in Python programming
+and statistical analysis. Proven track record of deploying ML models
+in production environments.
+
+EXPERIENCE:
+
+Senior Data Scientist | ABC Tech Solutions | 2022 - Present (2 years)
+- Built recommendation system using collaborative filtering in Python
+- Developed NLP models for sentiment analysis using BERT and PyTorch
+- Deployed ML models on AWS SageMaker with Docker containers
+- Reduced model inference time by 40% through optimization
+- Worked with SQL databases to extract and process large datasets
+
+Data Scientist | XYZ Analytics | 2020 - 2022 (2 years)
+- Created predictive models using Scikit-learn and TensorFlow
+- Performed data analysis using Pandas, NumPy on 10M+ records
+- Built data visualizations using Matplotlib and Seaborn
+- Applied statistical methods for A/B testing
+
+TECHNICAL SKILLS:
+Programming: Python, R, SQL, Java
+ML Libraries: TensorFlow, PyTorch, Scikit-learn, Keras
+Data Tools: Pandas, NumPy, Matplotlib, Seaborn
+Cloud: AWS (SageMaker, S3, EC2), GCP
+DevOps: Docker, Git, Jenkins, Kubernetes
+NLP: BERT, GPT, Hugging Face Transformers
+Databases: MySQL, PostgreSQL, MongoDB
+Other: Jupyter Notebook, VS Code, Airflow
+
+EDUCATION:
+M.Tech in Data Science | IIT Bombay | 2020
+B.Tech in Computer Science | NIT | 2018
+
+CERTIFICATIONS:
+- AWS Certified Machine Learning Specialty
+- Google Professional Data Engineer
+- Deep Learning Specialization - Coursera (Andrew Ng)
+
+PROJECTS:
+1. Real-time Fraud Detection System (Python, TensorFlow, AWS)
+2. Customer Churn Prediction (Scikit-learn, Pandas, SQL)
+3. Image Classification using CNN (PyTorch, Computer Vision)
+4. NLP Chatbot (BERT, Python, Docker)   

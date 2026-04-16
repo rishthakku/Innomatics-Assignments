@@ -1,0 +1,42 @@
+RESUME - AVERAGE CANDIDATE
+
+NAME: Rahul Gupta
+EMAIL: rahul.gupta@email.com
+PHONE: +91-9765432109
+
+SUMMARY:
+Data Science professional with 2 years of experience in machine learning
+and data analysis. Good knowledge of Python and basic ML algorithms.
+Looking to grow in AI/ML field.
+
+EXPERIENCE:
+
+Data Analyst | MNO Company | 2022 - Present (2 years)
+- Analyzed data using Python and Pandas
+- Created reports and dashboards using Matplotlib
+- Built basic machine learning models with Scikit-learn
+- Worked with SQL databases for data extraction
+- Performed basic statistical analysis
+
+Junior Data Scientist | PQR Startup | 2021 - 2022 (1 year)
+- Data cleaning and preprocessing using Python
+- Built simple classification models
+- Created data visualizations
+
+TECHNICAL SKILLS:
+Programming: Python, SQL
+ML Libraries: Scikit-learn, basic TensorFlow
+Data Tools: Pandas, NumPy, Matplotlib
+Databases: MySQL
+Other: Jupyter Notebook, Git
+
+EDUCATION:
+B.Tech in Computer Science | State University | 2021
+
+PROJECTS:
+1. House Price Prediction (Python, Scikit-learn)
+2. Sales Data Analysis (Pandas, Matplotlib)
+3. Customer Segmentation (K-means clustering)
+
+CERTIFICATIONS:
+- Python for Data Science - Coursera

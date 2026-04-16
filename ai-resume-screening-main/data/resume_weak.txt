@@ -1,0 +1,40 @@
+RESUME - WEAK CANDIDATE
+
+NAME: Amit Kumar
+EMAIL: amit.kumar@email.com
+PHONE: +91-9654321098
+
+SUMMARY:
+Fresh graduate interested in data science and technology.
+Have done some online courses in Python and want to learn more
+about machine learning. Looking for my first opportunity.
+
+EXPERIENCE:
+No professional experience yet.
+
+Internship | Local Shop | 2023 (3 months)
+- Maintained Excel spreadsheets
+- Basic data entry work
+- Helped with inventory management
+
+TECHNICAL SKILLS:
+Programming: Basic Python (beginner level)
+Tools: Microsoft Excel, PowerPoint
+Databases: Very basic SQL knowledge
+
+EDUCATION:
+B.Sc in Mathematics | Local College | 2023
+Percentage: 65%
+
+PROJECTS:
+1. Simple calculator in Python (college project)
+2. Excel-based sales report
+
+ONLINE COURSES:
+- Introduction to Python - YouTube
+- Basic Statistics - Online
+
+HOBBIES:
+- Reading about AI
+- Playing Cricket
+- Watching Tech YouTube Videos
